@@ -1,5 +1,5 @@
 # General
-.venv
+.venv/
 .env
 .env.prod
 .env.stg
@@ -12,5 +12,5 @@ __pycache__/
 # Project
 app/data
 db/data
-.scrapy
-*.json
+.scrapy/
+app/*.json
