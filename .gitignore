@@ -12,3 +12,5 @@ __pycache__/
 # Project
 app/data
 db/data
+.scrapy
+*.json
