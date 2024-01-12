@@ -1,0 +1,20 @@
+.vscode
+.env
+.git
+.gitignore
+.gitattributes
+**/.gitkeep
+**/Dockerfile
+docker-compose.yml
+docker-compose.override.yml
+
+# app
+# **/.venv
+.venv
+.env
+.env.prod
+.env.stg
+.env.local
+.history
+__pycache__/
+.mypy_cache

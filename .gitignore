@@ -1,0 +1,14 @@
+# General
+.venv
+.env
+.env.prod
+.env.stg
+.env.local
+.vscode/setting.json
+.history
+__pycache__/
+.mypy_cache
+
+# Project
+app/data
+db/data
