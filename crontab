@@ -1,1 +1,2 @@
 */5 * * * * echo "hello world!"
+*/5 * * * * echo $PWD && python /usr/src/app/test_main.py
